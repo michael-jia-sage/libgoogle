@@ -1,0 +1,5 @@
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/core/bin/Debug/Google.GData.Client.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/core/bin/Debug/Google.GData.Client.dll
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/core/obj/Debug/Google.GData.Client.dll
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/core/obj/Debug/Google.GData.Client.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/core/bin/Debug/Newtonsoft.Json.dll

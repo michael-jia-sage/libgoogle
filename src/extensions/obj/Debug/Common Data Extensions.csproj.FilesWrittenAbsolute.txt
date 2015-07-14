@@ -1,0 +1,7 @@
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/extensions/bin/Debug/Google.GData.Extensions.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/extensions/bin/Debug/Google.GData.Extensions.dll
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/extensions/obj/Debug/Google.GData.Extensions.dll
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/extensions/obj/Debug/Google.GData.Extensions.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/extensions/bin/Debug/Newtonsoft.Json.dll
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/extensions/bin/Debug/Google.GData.Client.dll
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/extensions/bin/Debug/Google.GData.Client.dll.mdb

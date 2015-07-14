@@ -1,0 +1,8 @@
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/gspreadsheet/bin/Debug/Google.GData.Spreadsheets.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/gspreadsheet/bin/Debug/Google.GData.Spreadsheets.dll
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/gspreadsheet/obj/Debug/Google.GData.Spreadsheets.dll
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/gspreadsheet/obj/Debug/Google.GData.Spreadsheets.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/gspreadsheet/bin/Debug/Google.GData.Client.dll
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/gspreadsheet/bin/Debug/Google.GData.Client.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/gspreadsheet/bin/Debug/Google.GData.Extensions.dll
+/Users/jiazonggao/WorkSpace/Mobile/libgoogle-data-mono-2.2.0.0/src/gspreadsheet/bin/Debug/Google.GData.Extensions.dll.mdb
